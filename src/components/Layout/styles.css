@@ -1,0 +1,6 @@
+.Content {
+  padding: 1rem;
+  min-height: calc(100vh - 102px);
+  display: flex;
+  justify-content: center;
+}

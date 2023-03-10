@@ -1,0 +1,22 @@
+.Header {
+  width: 100%;
+  padding: 1rem;
+  background-color: rgb(31, 31, 37);
+  color: #fff;
+}
+
+.NavigationList {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  justify-content: center;
+}
+.NavigationListItem {
+  margin: 0 0.5rem;
+}
+.NavigationListItem a {
+  text-decoration: none;
+  color: #fff;
+  font-weight: 700;
+}
